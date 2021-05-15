@@ -10,7 +10,7 @@ pipeline
         steps
         {
           
-          println " Org SCAN REPO1"
+          println " Org SCAN REPO1 dev"
         }
       }
       
